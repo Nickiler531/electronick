@@ -1383,12 +1383,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #cccccc;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #cccccc;
+  background: #232323;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1472,7 +1472,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #cccccc;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1763,9 +1763,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-redV7v01Ff {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
 @media (min-width: 992px) {
   .cid-redV7v01Ff .mbr-figure {
