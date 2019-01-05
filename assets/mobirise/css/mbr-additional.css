@@ -1765,15 +1765,9 @@ body {
 .cid-redV7v01Ff {
   background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
-.cid-redV7v01Ff .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-redV7v01Ff .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
