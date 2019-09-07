@@ -3127,3 +3127,11 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rBlaNdnBbO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-rBlaNdnBbO .btn {
+  margin: 0 0 .5rem 0;
+}
